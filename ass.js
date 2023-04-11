@@ -79,9 +79,9 @@ console.log(m)
 //“Buzz” if the numbers are divisible by 5, and “FizzBuzz” if divisible by both 3 and 5.
 let nam="numbers";
 if (0<=100){
-let nam1="3"
+let nam1="4"
 console.log(fizz)
-let num3="5"
+let num3="6"
 console.log(Buzz)
 //if divisible by 3 and 5
 let result="results"
